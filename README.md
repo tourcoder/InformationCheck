@@ -12,5 +12,9 @@ Check the format of some informations
 - URL
 - IP
 
+### How to use
+Check it on [tourcoder/swiftpackagedemo](https://github.com/tourcoder/swiftpackagedemo.git).
+
 ### Notice
 This is only a demo.
+
